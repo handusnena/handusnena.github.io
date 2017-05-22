@@ -1,41 +1,58 @@
-# Ignore docs files
-_gh_pages
-_site
-.ruby-version
+# Ruby
+.rake_test_cache
+.rvmrc
+.rbenv-version
+Gemfile.lock
+*.gem
 
-# Numerous always-ignore extensions
-*.diff
-*.err
-*.orig
-*.log
-*.rej
-*.swo
-*.swp
-*.zip
-*.vi
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Emacs org-mode
+.org-id-locations
+*_archive
+
+# SublimeText
+*.sublime-workspace
+
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
+# Vim
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
 *~
 
-# OS or Editor folders
+# OS X
 .DS_Store
+.AppleDouble
+.LSOverride
+Icon
 ._*
+.Spotlight-V100
+.Trashes
+
+# Windows
 Thumbs.db
-.cache
-.project
-.settings
-.tmproj
-*.esproj
-nbproject
-*.sublime-project
-*.sublime-workspace
-.idea
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
-# Komodo
-*.komodoproject
-.komodotools
+# bundler
+.bundle
+lib/bundler/man
+vendor
 
-# grunt-html-validation
-validation-status.json
-validation-report.json
-
-# Folders to ignore
-node_modules
+# hugo
+public/*
