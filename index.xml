@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonina Shvetsova</title>
+    <link>http://handusnena.com/</link>
+    <description>Recent content on Antonina Shvetsova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2015 09:51:51 -0400</lastBuildDate>
+    
+	<atom:link href="http://handusnena.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://handusnena.com/about/</link>
+      <pubDate>Tue, 28 Jul 2015 09:51:51 -0400</pubDate>
+      
+      <guid>http://handusnena.com/about/</guid>
+      <description>This placeholder page could be your &amp;ldquo;about me&amp;rdquo; page, where you detail your contact information, portfolio pieces, and describe yourself and your goals.</description>
+    </item>
+    
+  </channel>
+</rss>
