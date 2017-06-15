@@ -4,5 +4,7 @@ draft = false
 title = "About Me"
 +++
 
-This placeholder page could be your "about me" page, where you detail your contact information,
-portfolio pieces, and describe yourself and your goals.
+My name is Antonina Shvetsova.
+I'm a fascinating person who likes to travel.
+
+as for now I live in Bangkok.
